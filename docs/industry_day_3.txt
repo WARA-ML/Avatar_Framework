@@ -1,0 +1,79 @@
+Program
+
+The event starts with lunch 12:00 on November 6th and is concluded at 16:00 on November 7th. Please visit the pages for each day to see the full program.
+
+DAY 1 - WING DAY - November 6
+
+WING Day (WASP Industry Networking Gathering Day) is a forum where company representatives meet WASP’s researchers and doctoral students to identify common research interests in group discussions and in spontaneous mingles. Presentations by international and national key experts from industry and academia add insights to the exchanges. The day concludes with a conference dinner.
+
+Program November 6
+Please note, other than start and end of  the day, times are preliminary and may change. More speakers are to be confirmed.
+
+11:00 Registration opens
+
+12:00 Lunch at Västerås Congress
+
+13:00 Opening of conference
+
+Plenary session
+Moderator: Amy Loutfi, Co-director WASP
+
+Keynotes:
+
+Deval Pandya, Vice President of AI Engineering at Vector Institute, Toronto
+Title of talk: Responsible and Trustworthy AI- from Principles to Practice
+Bio and abstract
+Ieva Martinkenaite, SVP Head of Research and Innovation, Telenor Group, Oslo
+Title of talk: AI journey of the telecom industry
+Bio and abstract
+Ola Engkvist, Senior Director, Head of Molecular AI, Discovery Sciences, R&D, AstraZeneca
+Title of talk: Applying AI to Drug Design
+Bio and abstract
+15:00 Networking session including coffee
+
+17:00 End of day, hotel check-in
+
+19:00 Mingle and research poster exhibition followed by dinner at Västerås Congress
+
+
+DAY 2 - WARA and EXPO - November 7
+
+A vibrant company exhibition and demonstrations are the focus of day two. We spotlight the WASP Research Arenas, WARA, and the opportunities for collaboration they offer. All the WASP Research Arenas will be on-site to demonstrate ongoing projects and discuss collaboration possibilities.
+
+WARA Robotics, driven by ABB, will give guided tours in their recently inaugurated manufacturing robotics lab. In addition, a guided tour in the ABB Robotics Experience Center is offered.
+
+Program November 7
+Please note, other than start and end of  the day, times are preliminary and may change. More speakers are to be confirmed.
+
+08:30 Opening of day 2
+
+Insights from industry
+Niclas Sjöstrand, CTO, ABB Robotics
+The intersection of AI research and automotive
+Henric Rhedin, Director External Research & Exploration Coordination, Volvo Cars
+AI transforming telecom
+Jörgen Gustafsson, Head of AI Research, Ericsson
+Startup stories – Creating true business value
+Charlotte Söderhjelm, CEO, Gavagai
+WASP Research Arenas introduced
+10:00-15:00 Parallel tracks including lunch and coffee buffet
+
+Demonstrations from WASP Research Arenas
+Exhibition
+Guided tour at ABB Robotics and Corporate Research
+WARA Robotics Lab
+ABB Robotics Experience Center
+15:00-16:00 Closing session
+
+WASP Research Arenas Demos
+WARA Media & Language
+WARA M&L will demonstrate on-going research from the arena partners and affiliated research projects. This includes AI-driven game testing, interactive avatars, and AI-supported knowledge distillation systems. We will also share the animations produced by the WASP PhD students in this year’s summer school one the Synthesis of Human Communication.
+
+WARA Operational Data
+WASP Industry Days will host the first public demonstration of WARA-Ops – what resources are available to WASP researchers now, how they can be used, and what the plans are to expand the number of hosted datasets, as well as ongoing work on improving the data processing and storage infrastructure itself. WARA-Ops is a new research infrastructure available to all members of WASP – it provides operational datasets (currently focussed around themes of anomaly detection and data centre metrics) alongside a powerful data storage and processing environment based at the Ericsson Research Data Centre (ERDC).
+
+WARA Robotics
+WARA Robotics will give guided tours in the two working environments they offer. Navigation in dynamic workspaces using real and simulated mobile robots, and manipulators working in lab automation case-studies using collaborative robots will be showcased. In each of the demonstrations, active challenges and the available research resources provided by WARA Robotics is highlighted.
+
+WARA Public Safety
+WARA-PS will present the Core System and its capabilities in virtual demonstration of public safety related scenarios, with heterogenous agents collaborating to solve missions with unforeseen events. The demonstrations will also include in-depth presentations of our 3D environments, Core System functionality, and different tools available in the arena. These include the digital board game, made to create new scenarios, recording and replay of our missions, and our scenario builder used to showcase how we create mission in WARA-PS.

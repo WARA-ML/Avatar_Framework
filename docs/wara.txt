@@ -1,0 +1,56 @@
+WARA Media and Language
+The mission of WASP Research Arena for Media and Language (WARA M&L) is to build a multidisciplinary ecosystem around Media AI, connecting scientific fields and a diversity of industrial segments.
+
+
+Objective of WARA M&L
+The primary of objective of WARA M&L is to foster personal relationships through shared tasks, one-to-one partner matching, and focused research seminars. Additionally, the arena leverages on-going investments in media infrastructure to verify emerging technologies and transfer solutions between verticals. It addresses research topics related to the generation and analysis of media data, and extrinsic effects of the same. To overcome thresholds for collaboration, the arena provides data management and benchmarking, together with engineering support and legal consultation on IP matters.
+
+
+Research Focus Areas
+Lately, the research agenda has been sharpened to focus on generation and analysis, in particular synthesis of multimodal data, and graph-based machine learning. We chose to prioritise data synthesis because of recent scientific breakthroughs in the field of generative ML, in combination with an industrial need to create and share realistic data sets based on sensitive information that must itself be protected. Graph-based machine learning is important because it provides a joint representational framework for different modalities, makes formal inference possible, and provides transparency and explainability. Three research focus areas are presented below.
+
+
+Natural Language Processing (NLP)
+WARA Media and Language, AI Sweden, and RISE, are working together to develop large-scale generative language models for the Nordic languages. GPT-SW3, is the first truly large-scale generative language model for the Swedish language. Based on the same technical principles as the much-discussed GPT-3, GPT-SW3 will help Swedish organizations build a new generation of language applications. The current GPT-SW3 models are trained on Linköping University’s supercomputer, Berzelius, using the Nemo Megatron framework from NVIDIA. The pre-release is an important step in the process of knowledge building, validating the model and collecting feedback on both what works well, and what could be improved. Access the model here. 
+
+NVIDIA recently opened their early-access program for the NeMo LLM Service. With its 530 bn parameters, it is among the largest ever trained language models and is expected to have capabilities beyond what we have seen so far. Among many applications submitted, the WASP project STING associated with WARA Media and Language was one out of initially 25 projects that were granted early-access, the only research project in Europe and the Middle East this far. One of the main applications is motivated by the urgent need to educate more psychiatrists and psychologists and to give them the opportunity to train on avatars that can be configured to behave in accordance with different medical diagnoses and conditions. Since, ethical and practical reasons prevent them for training on actual patients. Read more here. 
+
+We also facilitate collaborations between our industrial partners by, for example, driving the Master student community working on NLP-related topics, and supervising projects in the Master-level Data Science project course currently running at KTH. The focus area will also encourage applications for industrial and academic PhD students in the fields of NLP.
+
+
+Gaming
+Together with Electronic Arts, King, and Motorica, the AI for Gaming stream has arranged a number of events and projects, involving both industry and academic partners. An example of this is the previously-mentioned GENEA Challenge, which is of both academic and applied interest. The next step within this stream is to develop an open platform for AI for game testing.
+
+
+Media
+We organized an AI and Media Community Reference Meeting together with WASP-HS on October 13, 2022. To share the knowledge and insights from that meeting,WASP-HS has published a report. During the meeting it was discussed how AI is being put to use in different media sectors, as well as what helps and hinders the technological uptake, what the potential consequences for people and for society are, and more. A number of themes were discussed in parallel at different roundtables. It was a hybrid event, with discussion tables spread over three locations: In Gothenburg, where the themes were AI for Text Generation, and How AI Transforms the Production and Consumption of Arts, Music, and Media. In Stockholm, where we held discussions on AI for Gaming, AI for Movie Production, and AI for Music, and in Umeå where the focus was on AI in Politics. Read more and download the report.
+
+
+WARA Media & Language Podcast
+In the WARA Media & Language podcast you will hear about the latest research within AI in the field of Media, Language and Gaming. You will also hear from industry leaders, tech companies and startups in our community.
+
+
+For PhD students
+Every year we are organizing WASP Summer School on the Synthesis of Human Communication at the Visualization Center in Norrköping. During the week,  experienced speakers cover the building blocks of generative language models, invertible neural networks, and speech synthesis. Students also work in groups, in parallel to the lectures, to design their own prototype avatars. The week is wrapped up by presentations of the assignments in the 3D dome theatre at the Visualization Center. The week provides great knowledge as well an excellent networking opportunity both with other students as well as professors and industry experts.
+
+We also arrange different workshops and event with our collaborative partners such as NVIDIA and Google.
+
+
+Collaborate with us
+We welcome any party that is willing and able to drive progress in AI for Media and Language. We interact with both established and emerging enterprises, as well as international initiatives such as Mila in Montreal and the British DPP.
+
+Follow us on LinkedIn to be the first to know about upcoming events and opportunities.
+
+
+The Core Team
+Johanna Björklund, Project Manager, Umeå University & Codemill AB
+
+Sandor Albrecht, Co-project Manager, KAW
+
+Ivana von Proschwitz, Community Manager, WARA Media & Language
+
+Anastasia Varava, Data Scientist, SEB
+
+Konrad Tollmar, Research Director, EA Games / Associate Professor, KTH Royal Institute of Technology
+
+Gustav Eje Henter, Assistant Professor, KTH Royal Institute of Technology

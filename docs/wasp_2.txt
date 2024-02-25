@@ -1,0 +1,17 @@
+Vision and Strategy
+The scope of WASP is artificial intelligence, collaborating vehicles, robots and complex software-intensive systems with the intelligence to achieve autonomy in interactions with humans.
+
+Software, models and algorithms are currently a large and rapidly increasing part of the development of almost all engineering systems including autonomous systems, and there is a strong need to manage this complexity to ensure functionality and reduce development costs.
+
+Artificial intelligence and autonomous systems are a scientifically challenging disruptive technology that will fundamentally change society and industry. Swedish industry is by tradition strong in systems engineering. To stay competitive, Sweden needs to invest in research and competence building in this area, and hence WASP is highly relevant to Swedish industry.
+
+Vision
+Excellent research and competence in artificial intelligence, autonomous systems and software for the benefit of Swedish society and industry.
+
+Strategic Instruments
+The instruments for this are designed to achieve leverage, renewal, and expansion. They have to meet the challenges in research, in competence building, and in strategic relevance, and include:
+
+A research program aiming for disruptive developments, see Research.
+An international recruitment program, providing the brain-gain to establish new research areas, and to reinforce existing strengths in Sweden. The recruitment program aims for both outstanding younger researchers as well as established experts. This is achieved by offering recruitment packages that are attractive by international standards.
+A national graduate school with close interaction with Swedish industry with the aim to raise the knowledge level in Sweden. The graduate school is dimensioned to produce at least 600 new PhDs, with at least 150 of those being industrial PhD students.
+Platforms for research and demonstration in collaboration with other parties. The participating universities have substantial existing infrastructures that can be leveraged for this purpose. Further reinforcement will be achieved by including industrial demonstrators, or even by aiming for new larger highly visible initiatives on an international scale.

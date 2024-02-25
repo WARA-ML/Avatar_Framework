@@ -1,0 +1,11 @@
+nvidia-riva-client
+pyaudio
+nemollm
+grpcio
+txtai
+pydub
+scipy
+langchain
+soundfile
+python-dotenv
+jupyter
