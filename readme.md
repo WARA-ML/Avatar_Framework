@@ -12,7 +12,7 @@ pip install protobuf==3.20
 
 ## Running
 
-Prefer to section 3 in this [document](https://docs.google.com/document/d/1a49pkNXNEet5nddcI0d5Y62-Obq7Fp4-CWcGd9unCr4/edit?usp=sharing) for running the notebook.
+Refer to this [document](https://docs.google.com/document/d/1bdKKYdWuIp8zXv4v6lzXBzCcIMMJctSPuq9_1ODDNaw/edit) for running the notebook.
 
 In the file [.env](.env), you need to set the values to your actual keys.
 
